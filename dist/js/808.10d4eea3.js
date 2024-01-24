@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkon_lesson2"]=self["webpackChunkon_lesson2"]||[]).push([[808],{808:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var s=t(3396);function r(n,e,t,r,u,a){return(0,s.wg)(),(0,s.iD)("div",null,"My Contacts")}var u={name:"ContactsPage"},a=t(89);const o=(0,a.Z)(u,[["render",r]]);var c=o}}]);
+//# sourceMappingURL=808.10d4eea3.js.map

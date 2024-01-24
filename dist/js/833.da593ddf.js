@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkon_lesson2"]=self["webpackChunkon_lesson2"]||[]).push([[833],{833:function(n,s,e){e.r(s),e.d(s,{default:function(){return f}});var u=e(3396);const t={class:"about"},a=(0,u._)("h1",null,"This is an about page",-1),o=[a];function r(n,s){return(0,u.wg)(),(0,u.iD)("div",t,o)}var c=e(89);const i={},l=(0,c.Z)(i,[["render",r]]);var f=l}}]);
+//# sourceMappingURL=833.da593ddf.js.map
